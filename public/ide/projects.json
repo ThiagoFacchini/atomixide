@@ -1,0 +1,12 @@
+{
+  "projects" : [
+    {
+      "name": "Project 1",
+      "path": "/some/path"
+    },
+    {
+      "name": "Project 2",
+      "path": "another/random/path"
+    }
+  ]
+}
